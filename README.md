@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GNOMEport<br>🌱 I’m currently learning Rust<br>⚡ Fun fact: I use Manjaro btw (hate Windows but too lazy to use Arch btw)
+🔭 I’m currently working on [LCD System Monitor](https://github.com/m0squdev/lcd-system-monitor)<br>🌱 I’m currently learning Rust<br>⚡ Fun fact: I use Manjaro btw (hate Windows but too lazy to use Arch btw)
 
 
 ## 🌐 Socials:
