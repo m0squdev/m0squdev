@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GNOMEport<br>🌱 I’m currently learning Rust<br>⚡ Fun fact: I use Manjaro btw (I hate Windows but not that much to use Arch btw)
+🔭 I’m currently working on GNOMEport<br>🌱 I’m currently learning Rust<br>⚡ Fun fact: I use Manjaro btw (hate Windows but too lazy to use Arch btw)
 
 
 ## 🌐 Socials:
